@@ -91,7 +91,7 @@ function check()
 }
 function check2()
 {
-if(score == 2)
+if(score == 20)
 {
     document.getElementById("score").innerHTML = "You Got 20 Apples"; 
     glassTrue = "true";
